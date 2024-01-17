@@ -36,10 +36,11 @@ Pinout is looking into the connector.
 ## Required Parts
 
  - PCB
- - Male "Ultra Thin" DB9
+ - [12p Micro-MaTch PCB Connector (SMD)](https://uk.rs-online.com/web/p/pcb-sockets/3661765?gb=s)
+ - [12p Micro-MaTch Ribbon Cable (75-100mm)](https://uk.rs-online.com/web/p/ribbon-cable/1232150?gb=s)
+ - [Male "Ultra Thin" DB9](https://www.aliexpress.com/item/32888489053.html)
+ - 4x [M3x10mm self tapping screws](https://www.orbitalfasteners.co.uk/products/m3-x-10-pan-pozi-no-1-taptite-alternative-screws-steel-bright-zinc-plated-din-7500-ce-z) 
  -  2x 4-40 Jack Screws 
- - 4x M3x10mm self tapping screws
-
 
 ## Assembling the PCB
 
@@ -55,7 +56,7 @@ Remove the plastic cover from the radio by levering it off the mounting points. 
 
 <img src="images/Tait_Assembled.jpg" width="400">
 
-Remove the rubber bung out of the DB9 cut out if fitted, and insert the DB9 connector onto the PCB. Line it up with the mounting posts and screw in the 4x M3x10mm self tapping screws.  
+Remove the rubber bung out of the DB9 cut out if fitted, and insert the DB9 connector onto the PCB. Line it up with the mounting posts and screw in the 4x M3x10mm self tapping screws.  These will be a little stiff as they tap the required threads.
 
 <img src="images/Tait_Fitted.jpg" width="400">
 
