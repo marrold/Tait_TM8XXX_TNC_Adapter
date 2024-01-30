@@ -36,8 +36,8 @@ Pinout is looking into the connector.
 ## Required Parts
 
  - PCB
- - [12p Micro-MaTch PCB Connector (SMD)](https://uk.rs-online.com/web/p/pcb-sockets/3661765?gb=s)
- - [12p Micro-MaTch Ribbon Cable (75-100mm)](https://uk.rs-online.com/web/p/ribbon-cable/1232150?gb=s)
+ - 18p Micro-MaTch PCB Connector (SMD)
+ - 18p Micro-MaTch Ribbon Cable (`75-100mm)
  - [Male "Ultra Thin" DB9](https://www.aliexpress.com/item/32888489053.html)
  - 4x [M3x10mm self tapping screws](https://www.orbitalfasteners.co.uk/products/m3-x-10-pan-pozi-no-1-taptite-alternative-screws-steel-bright-zinc-plated-din-7500-ce-z) 
  -  2x 4-40 Jack Screws 
